@@ -1,0 +1,29 @@
+# Site information
+site_name: TexRevAIve Documentation
+site_url: https://sitename.example
+site_author: Panagiotis Giannakeris
+site_description: TexRevAIve Documentation
+
+# Copyright
+copyright: Copyright &copy; 2025 TEXTaiLES
+
+# Config
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+ # logo: assets/thoth-logo.png #portal-logo
+ # favicon: assets/thoth-logo.png #portal-logo
+
+# Extra
+extra:
+  social: 
+    - icon: fontawesome/brands/github
+      link: https://github.com/TEXTaiLES
+
+# Page
+nav:
+  - Home: index.md
+  - Installation: install.md
+  - Usage: use.md
